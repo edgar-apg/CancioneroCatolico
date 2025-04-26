@@ -1,0 +1,11 @@
+## Ejemplo de cómo debe ser el archivo del cancionero
+
+songs:
+  - canciones/Entrada/abre_señor.cho
+  - canciones/Ofertorio/toma_mi_vida.cho
+  - canciones/Comunión/pan_de_vida.cho
+  - canciones/Salida/vayamos_en_paz.cho
+
+config: config.json
+output:
+  file: cancionero.pdf

@@ -1,0 +1,21 @@
+{
+  "textfont": "Open Sans",
+  "chordfont": "Inconsolata",
+  "titles": {
+    "font": "Open Sans",
+    "size": 18,
+    "weight": "bold"
+  },
+  "subtitle": {
+    "font": "Open Sans",
+    "size": 14,
+    "italic": true
+  },
+  "chords": {
+    "size": 10,
+    "style": "bold"
+  },
+  "lyrics": {
+    "size": 11
+  }
+}
